@@ -1,6 +1,4 @@
 import journal
-# from journal import load, save
-# from journal import *
 
 
 def main():
